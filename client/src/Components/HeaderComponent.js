@@ -31,7 +31,7 @@ class Header extends Component{
                                     <NavLink className="nav-link" style={{width:200,justifyContent:'space-around'}} to="/allclg">All Colleges</NavLink>
                                 </NavItem>
                                 <NavItem>
-                                    <NavLink className="nav-link" style={{width:200,justifyContent:'space-around'}} to="/mystu">My Student</NavLink>
+                                    <NavLink className="nav-link" style={{width:200,justifyContent:'space-around'}} to="/mystu">Student</NavLink>
                                 </NavItem> 
                             </Nav>    
                         </Collapse>
